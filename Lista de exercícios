@@ -1,0 +1,37 @@
+Técnico de Desenvolvimento de Sistemas Industria 4.0 (TDS 4.0)
+Unidade Curricular (UC) de Lógica de Programação
+Exemplos 1 de Programas para Treinar – Linguagem C
+
+Todas as questões podem ser respondidas através de algoritmos descritivos,
+fluxograma ou em linguagem C
+
+1 – Crie uma variável float de nome pi e atribua o valor 3.141592 a ela, escreva no console o
+valor da variável pi apenas com 2 casas decimais;
+2 – No exercício 1 crie uma constante PI utilizando o comando define e atribua o valor da
+constante na variável pi
+3 – Crie uma variável caractere chamada RUA e solicite que o usuário digite o nome da sua rua,
+atribua esse valor à variável através do comando fgets.
+4 – No exercício 4 crie uma variável int chamada Número e solicite que o usuário digite o nome
+da sua rua, utilizando o comando scanf.
+5 – No exercício 4 utilize o comando puts para exibir o nome da rua e o comando printf para
+exibir o número da rua;
+6 – Crie 4 variáveis char chamadas PORTA_1, PORTA_2, PORTA_3 e PORTA_4, atribua os
+valores Tigre_de_bengala, Tigre_siberiano, Tigre_dente_de_sabre, Tigre_sumatra;
+7 – No exercício 6, solicite que o usuário escolha entre uma das 4 portas, crie uma variável
+para receber a resposta;
+8 – No exercício 7 crie uma condicional para informar ao usuário qual o tipo de tigre que
+estava atrás da porta e se ele corre perigo ou não. Dica: o tigre dente de sabre está extinto.
+9 – Crie um vetor para guardar suas notas da UC de lógica de programação. O vetor deve
+conter 6 notas; 9,2, 5,6, 7,8, 7,0, 7.2, 0, a última nota é zero, pois, a lista 6 ainda não foi
+corrigida;
+10 – No exercício 9 calcular a média das notas, somar as notas e dividir por 6, guardar essa
+informação em uma variável.
+11 – No exercício 10 criar uma condicional que se a nota for abaixo da média 7, você deve
+informar ao usuário que ele está abaixo da média e se for acima ou igual a 7, que está dentro
+da média.
+12 – No exercício 11 incluir dentro da condicional uma função que calcula qual deve ser a nota
+da atividade 6, que ainda não foi corrigida, para que você fique dentro da média 7. Dica: a
+soma das notas divido por 6 deve ser igual a 7, ache a incógnita. Retorne o valor da função
+para o programa principal e escreva no console para o usuário saber qual deve ser sua nota da
+lista 6.
+13 – Crie um vetor de inteiros e atribua o número_da_camisa de um time de futebol.
